@@ -7,4 +7,6 @@ chickoo, grapes, kiwi, orange, and apple. Each fruit is represented by a collect
 high-quality images that highlight their unique color, texture, and shape.
 The RESNET and the custom CNN were tested to show the strenght of generalization and also the
 effects of using a pre-trained model on a small dataset.
-the results showed the RESNET performed better than the custom CNN
+the results showed the RESNET performed better than the custom CNN.
+
+Early stopping was used in the pytorch training loop.
