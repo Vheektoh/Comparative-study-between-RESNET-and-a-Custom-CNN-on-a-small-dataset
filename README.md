@@ -10,3 +10,4 @@ effects of using a pre-trained model on a small dataset.
 the results showed the RESNET performed better than the custom CNN.
 
 Early stopping was used in the pytorch training loop.
+- The Completed file has the corrected lines of code.
